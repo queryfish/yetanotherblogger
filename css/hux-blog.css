@@ -392,7 +392,7 @@ pre code {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 85px 0 55px;
-  color: gray;
+  color: black;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -421,7 +421,7 @@ pre code {
 
 .intro-header .site-heading h1 {
   padding-bottom: 10px ;
-  border-bottom: 5px solid #fff ;
+  border-bottom: 4px solid black ;
 }
 
 .intro-header .site-heading .subheading,
