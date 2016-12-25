@@ -536,9 +536,9 @@ pre code {
   }
 }
 .post-content-preview {
-  font-size: 13px;
-  /*font-style: italic;*/
+  font-size: 16px;
   font-family: PingFangSC-Light, sans-serif;
+  line-height: 2.0em ;
   color: #414141;
 }
 .post-content-preview:hover {
