@@ -1,44 +1,22 @@
 ---
-layout:     keynote
-title:      "Example Post using Keynote Layout"
-subtitle:   "Keynote: JavaScript Modularization Journey"
-iframe:     "http://huangxuan.me/js-module-7day/"
+layout:     post
+title:      "最重要的事"
 date:       2015-07-09
-author:     "Hux"
+author:     "Mcpoet"
 header-img: "img/post-bg-js-version.jpg"
-tags:
-    - 前端开发
-    - JavaScript
 ---
+《最重要的事情只有一件》
+对于事业的规划，对于人生的规划，我相信这是个有效的结论。
 
+这个和我们说的事业、产品推演的流程很像，就是对你人生的推演。
+首先，现阶段而言，对于生活和事业，我只有一件事比较重要，就是事业，生活的作用是让我
+保持健康的同时，可以有更大的热情去做事，通过读书更正确的做事，找到更高的效率。
 
-> 下滑这里查看更多内容
+对于事业而言，又有两个层面，第一个层面是做好产品，产品线，这是我作为一个产品经理的本职工作，做好一款产品，是我的本职工作，除此之外，其他的都是浪费时间；这个时候要戒贪。
 
-7月9日，我在公司内部进行了名为「JavaScript 模块化七日谈」分享，并将该 Slides 分享到了微博上。出乎意料地，这篇微博先后被 @JS小组 @尤小右 @寸志 等近 200 人转发，阅读达到 10w，获得了还不错的评价。
+第二个层面，是做一个合格的创业者（实际上有一部分和Level 1是重合的），在这个层面上，我更多的是从行业的角度来关注这个企业的发展，团队的组建，最终，又汇总到产品上来。
 
-于是，我决定将它重新发到我的博客上，并为它专门制作了适用于 Keynote 展示文稿的新布局。它能自动根据屏幕大小/旋转以一定比例填充屏幕，你也可以直接点击下方链接在新页面打开，来获得更好的、沉浸式的全屏体验
+显然这个两个层面，要相互协调，相当于一个问题的两个面，但是从做事的角度而言，我必须做出抉择：并且在这个过程中，找到我的工作第一性原则；
+无疑，行业的视角可以让你的视野更宽，但是具体的工作可以让你的洞察力更深，所以选择前者会对后者有更大的回馈，形成正循环。
 
-
-### [Watch Slides →](http://huangxuan.me/js-module-7day)
-
-<img src="http://huangxuan.me/js-module-7day/attach/qrcode.png" width="350" height="350"/>
-
-<small class="img-hint">你也可以通过扫描二维码在手机上观看</small>
-
-
-这个 Web Slides 开源在[我的 Github 上](https://github.com/Huxpro/js-module-7day)，欢迎你帮助我完善这个展示文稿，你可以给我提 issue，可以 fork & pull request。如果它能帮助到你了，希望你还能不吝啬 star 一下这个项目
-
-
-### Catalog
-
-- 第一日 上古时期 ***Module?*** 从设计模式说起
-- 第二日 石器时代 ***Script Loader*** 只有封装性可不够，我们还需要加载
-- 第三日 蒸汽朋克 ***Module Loader*** 模块化架构的工业革命
-- 第四日 号角吹响 ***CommonJS*** 征服世界的第一步是跳出浏览器
-- 第五日 双塔奇兵 ***AMD/CMD*** 浏览器环境模块化方案
-- 第六日 精灵宝钻 ***Browserify/Webpack*** 大势所趋，去掉这层包裹！
-- 第七日 王者归来 ***ES6 Module*** 最后的战役
-
-### Thanks
-
-[Reveal.js](http://lab.hakim.se/reveal-js)
+第一个层面，我们要做的事情是什么：1、设计出高效、精益、可持续的产品；2、想办法提高团队的工作效率；3、
