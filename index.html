@@ -6,14 +6,21 @@ description: "Out of nowhere"
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
+        <h3 class="post-meta-heading">
+          <span class="post-meta-date">
+              {{ post.date | date: "%Y-%M-%d" }}
+          </span>
+          <span class="post-meta-author">
+              {% if post.author %}{{ post.author }}{% else %}{{ "McPoet" }}{% endif %}
+          </span>
+
+        </h3>
         <h2 class="post-title">
             {{ post.title }}
         </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
+        <!-- <h3 class="post-subtitle">
             {{ post.subtitle }}
-        </h3>
-        {% endif %}
+        </h3> -->
         <div class="post-content-preview">
             <!-- {{ post.content | strip_html | truncate:500 }} -->
             {{ post.content | truncate:1000 }}
