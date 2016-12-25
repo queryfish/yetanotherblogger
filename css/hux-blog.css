@@ -422,7 +422,7 @@ pre code {
 
 .intro-header .site-heading h1 {
   padding-bottom: 10px ;
-  border-bottom: 2px solid #666 ;
+  border-bottom: 1px solid #666 ;
 }
 
 .intro-header .site-heading .subheading,
@@ -442,8 +442,8 @@ pre code {
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
-    font-size: 30px;
-    font-weight: 400;
+    font-size: 40px;
+    font-weight: 300;
 
   }
 }
@@ -570,7 +570,7 @@ span.post-meta-author {
   }
   .post-preview > .post-title {
     font-size: 25px;
-    font-family: PingFangSC;
+    font-family: "PingFangSC";
   }
 }
 .post-content-preview {
