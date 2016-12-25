@@ -437,7 +437,7 @@ pre code {
   .intro-header .page-heading h1 {
     font-size: 80px;
     border-bottom: 5px solid #fff;
-  }
+  }``
 }
 .intro-header .post-heading h1 {
   font-size: 30px;
@@ -503,10 +503,11 @@ pre code {
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
-  font-family: 'Lora', 'Times New Roman', serif;
+  /*font-family: 'Lora', 'Times New Roman', serif;*/
+  font-family: PingFangSC-Regular, sans-serif;
   color: #808080;
   font-size: 16px;
-  font-style: italic;
+  /*font-style: italic;*/
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
@@ -516,7 +517,7 @@ pre code {
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
   color: #0085a1;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
@@ -533,8 +534,9 @@ pre code {
 }
 .post-content-preview {
   font-size: 13px;
-  font-style: italic;
-  color: #a3a3a3;
+  /*font-style: italic;*/
+  font-family: PingFangSC-Light, sans-serif;
+  color: #414141;
 }
 .post-content-preview:hover {
   color: #0085a1;
