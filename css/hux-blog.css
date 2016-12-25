@@ -398,8 +398,8 @@ pre code {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding-top: 150px;
-    padding-bottom: 80px;
+    padding: 150px 0;
+    /*padding-bottom: 80px;*/
   }
 }
 .intro-header .site-heading {
@@ -407,8 +407,7 @@ pre code {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading {
-    padding-top: 150px;
-    padding-bottom: 80px;
+    padding: 150px 0;
   }
 }
 .intro-header .site-heading,
@@ -522,7 +521,7 @@ pre code {
 }
 
 div.post-meta-header {
-  margin-top: 10px;
+  margin-top: 50px;
 }
 
 .post-preview > .post-meta-date {
@@ -567,6 +566,9 @@ span.post-meta-author {
   }
   .post-preview .post-meta {
     font-size: 18px;
+  }
+  .post-preview > .post-title {
+    font-size: 20px;
   }
 }
 .post-content-preview {
