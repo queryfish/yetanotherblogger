@@ -538,15 +538,16 @@ pre code {
 .post-content-preview {
   font-size: 16px;
   font-family: PingFangSC-Light, sans-serif;
-  line-height: 2.0em ;
+  /*line-height: 2.0em ;*/
   color: #414141;
 }
 .post-content-preview:hover {
-  color: #0085a1;
+  color: #080a33;
 }
 @media only screen and (min-width: 768px) {
   .post-content-preview {
-    font-size: 14px;
+    font-size: 105%;
+    line-height: 2.0em;
   }
 }
 .section-heading {
