@@ -519,14 +519,12 @@ pre code {
   margin-top: 0;
 }
 
-.post-meta-date h3,
-.post-meta-date span {
+.post-preview > .post-meta-date {
   font-family:  PingFangSC-Medium, sans-serif ;
   font-size: 110%;
 }
 
-.post-meta-auther h3,
-.post-meta-author span {
+.post-preview > .post-meta-auther {
   font-family:  PingFangSC-Light, sans-serif ;
   font-size: 100%;
 }
@@ -564,8 +562,10 @@ pre code {
 }*/
 @media only screen and (min-width: 768px) {
   .post-content-preview {
-    font-size: 105%;
+    font-size: 120%;
     line-height: 2.0em;
+    font-family: PingFangSC-Light, sans-serif;
+    color:  #333333;
   }
 }
 .section-heading {
