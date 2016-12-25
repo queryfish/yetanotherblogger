@@ -5,16 +5,15 @@ description: "Out of nowhere"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h3>
+    <!-- <a href="{{ post.url | prepend: site.baseurl }}"> -->
+        <div>
           <span class="post-meta-date">
               {{ post.date | date: "%Y-%M-%d" }}
           </span>
           <span class="post-meta-author">
               {% if post.author %}{{ post.author }}{% else %}{{ "McPoet" }}{% endif %}
           </span>
-
-        </h3>
+        </div>
         <h2 class="post-title">
             {{ post.title }}
         </h2>
@@ -25,10 +24,10 @@ description: "Out of nowhere"
             <!-- {{ post.content | strip_html | truncate:500 }} -->
             {{ post.content | truncate:1000 }}
         </div>
-    </a>
-    <p class="post-meta">
+    <!-- </a> -->
+    <!-- <p class="post-meta">
         Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+    </p> -->
 </div>
 <hr>
 {% endfor %}
