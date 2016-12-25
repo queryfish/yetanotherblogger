@@ -435,7 +435,8 @@ pre code {
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 40px;
+    font-weight: 400;
     border-bottom: 5px solid #fff;
   }``
 }
