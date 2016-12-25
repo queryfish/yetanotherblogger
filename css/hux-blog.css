@@ -524,7 +524,17 @@ pre code {
   font-size: 110%;
 }
 
+span.post-meta-date {
+  font-family:  PingFangSC-Medium, sans-serif ;
+  font-size: 110%;
+}
+
 .post-preview > .post-meta-auther {
+  font-family:  PingFangSC-Light, sans-serif ;
+  font-size: 100%;
+}
+
+span.post-meta-auther {
   font-family:  PingFangSC-Light, sans-serif ;
   font-size: 100%;
 }
