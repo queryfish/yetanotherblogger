@@ -436,6 +436,7 @@ pre code {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
     font-size: 80px;
+    border-bottom: 5px solid #fff;
   }
 }
 .intro-header .post-heading h1 {
