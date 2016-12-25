@@ -6,7 +6,7 @@ description: "Out of nowhere"
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h3 class="post-meta-heading">
+        <h3>
           <span class="post-meta-date">
               {{ post.date | date: "%Y-%M-%d" }}
           </span>
