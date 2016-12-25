@@ -555,9 +555,9 @@ pre code {
 }
 .post-content-preview {
   font-size: 16px;
-  font-family: PingFangSC-Light, sans-serif;
+  font-family: PingFangSC-Thin, sans-serif;
   /*line-height: 2.0em ;*/
-  color: #414141;
+  color: #6a6a6a;
 }
 /*.post-content-preview:hover {
   color: #080a33;
