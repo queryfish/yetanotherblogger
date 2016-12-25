@@ -525,8 +525,9 @@ pre code {
 }
 
 span.post-meta-date {
-  font-family:  PingFangSC-Medium, sans-serif ;
-  font-size: 110%;
+  font-family:  "Open Sans" ;
+  font-weight: bold;
+  font-size: 100%;
 }
 
 .post-preview > .post-meta-author {
@@ -535,8 +536,10 @@ span.post-meta-date {
 }
 
 span.post-meta-author {
-  font-family:  PingFangSC-Light, sans-serif ;
-  font-size: 100%;
+  font-family:  PingFangSC-Thin, sans-serif ;
+  font-size: 120%;
+  margin-left: 0.2em;
+  color: gray;
 }
 
 .post-preview > .post-meta > a {
