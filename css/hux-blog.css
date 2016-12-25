@@ -519,6 +519,10 @@ pre code {
   margin-top: 0;
 }
 
+div.post-meta-header {
+  margin-top: 10px;
+}
+
 .post-preview > .post-meta-date {
   font-family:  PingFangSC-Medium, sans-serif ;
   font-size: 110%;
@@ -567,7 +571,7 @@ span.post-meta-author {
   font-size: 120%;
   line-height: 2.0em;
   font-family: PingFangSC-Thin, sans-serif;
-  
+
 }
 /*.post-content-preview:hover {
   color: #080a33;
