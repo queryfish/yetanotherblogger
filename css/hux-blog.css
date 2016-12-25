@@ -530,9 +530,10 @@ div.post-meta-header {
 }
 
 span.post-meta-date {
-  font-family:  "Open Sans" ;
-  font-weight: bold;
+  font-family: Helvetica, Arial,sans-serif;
+  font-weight: 600;
   font-size: 100%;
+  color: #555
 }
 
 .post-preview > .post-meta-author {
