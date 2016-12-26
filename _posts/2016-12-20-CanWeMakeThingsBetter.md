@@ -5,7 +5,7 @@ date:       2016-12-20
 author:     "McPoet"
 ---
 
-![alt text](img/carrot_sm.jpg "Logo Title Text 1")
+![alt text](img/carrot_sm2.jpg "Logo Title Text 1")
 
 1、投入更大的精力去做产品<br>
 2、尝试更好的驱动团队，前提是驱动产品团队，产品团队没问题的话，是驱动技术团队<br>
