@@ -740,8 +740,8 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #818181;
+  border: 1px solid #818181;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
@@ -754,12 +754,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #818181;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #818181;
 }
 img::selection {
   color: white;
@@ -770,7 +770,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #0085a1;
+  webkit-tap-highlight-color: #818181;
 }
 /* Hux add tags support */
 .tags {
@@ -828,7 +828,7 @@ body {
 #tag_cloud .tag:hover,
 #tag_cloud a:active,
 #tag_cloud .tag:active {
-  background-color: #0085a1 !important;
+  background-color: #818181 !important;
 }
 @media only screen and (min-width: 768px) {
   #tag_cloud {
@@ -847,7 +847,7 @@ body {
   margin-top: 0px;
 }
 .listing-seperator {
-  color: #0085a1;
+  color: #818181;
   font-size: 21px !important;
 }
 .listing-seperator::before {
