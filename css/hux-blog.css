@@ -570,7 +570,7 @@ span.post-meta-author {
   }
 
 }
-.post-preview > .post-title {
+.post-preview > h3 > .post-title {
   font-size: 25px;
   font-family: "SimSun";
 }
