@@ -575,6 +575,12 @@ span.post-meta-author {
   font-family: "SimSun";
 }
 
+h3.post-title {
+  font-size: 25px;
+  font-family: "SimSun";
+}
+
+
 .post-content-preview {
   font-size: 120%;
   line-height: 2.0em;
