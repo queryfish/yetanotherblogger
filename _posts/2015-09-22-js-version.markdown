@@ -2,7 +2,7 @@
 layout:     post
 title:      "说说驱动力的事"
 subtitle:   "闲言碎语"
-date:       2015-09-22
+date:       2016-09-22
 author:     "mcpoet"
 header-img: "img/post-bg-js-version.jpg"
 tags:
