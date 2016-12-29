@@ -757,16 +757,16 @@ form .row:first-child .floating-label-form-group {
   background: #d6ff8a;
 }
 ::selection {
-  color: white;
+  color: black;
   text-shadow: none;
   background: #d6ff8a;
 }
 img::selection {
-  color: white;
+  color: black;
   background: transparent;
 }
 img::-moz-selection {
-  color: white;
+  color: black;
   background: transparent;
 }
 body {
