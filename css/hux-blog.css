@@ -14,11 +14,11 @@
   font-size: 14px;
 }
 .sidebar-container h5 {
-  color: #808080;
+  color: #d6ff8a;
   padding-bottom: 1em;
 }
 .sidebar-container h5 a {
-  color: #808080 !important;
+  color: #d6ff8a !important;
   text-decoration: none;
 }
 .sidebar-container a {
@@ -95,7 +95,7 @@ article {
   overflow-x: hidden;
 }
 blockquote {
-  color: #808080;
+  color: #d6ff8a;
   font-style: italic;
   font-size: 0.95em;
   margin: 20px 0 20px;
@@ -373,7 +373,7 @@ pre code {
 }
 .intro-header {
   background: no-repeat center center;
-  /*background-color: #808080;*/
+  /*background-color: #d6ff8a;*/
   /*background-attachment: scroll;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -514,7 +514,7 @@ pre code {
 .post-preview > .post-meta {
   /*font-family: 'Lora', 'Times New Roman', serif;*/
   font-family: PingFangSC-Regular, sans-serif;
-  color: #808080;
+  color: #d6ff8a;
   font-size: 16px;
   /*font-style: italic;*/
   margin-top: 0;
@@ -747,7 +747,7 @@ form .row:first-child .floating-label-form-group {
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #808080;
+  color: #d6ff8a;
   background-color: #404040;
   cursor: not-allowed;
 }
