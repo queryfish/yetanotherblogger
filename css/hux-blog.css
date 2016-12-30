@@ -9,6 +9,14 @@
     padding-right: 5%;
   }
 }
+
+.side-headimg {
+  display: block;
+  max-height: 300px;
+  max-width: 40%;
+  border: 1px solid #b3b3b3;
+}
+
 .sidebar-container {
   color: #bfbfbf;
   font-size: 14px;
