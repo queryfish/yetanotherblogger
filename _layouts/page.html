@@ -13,6 +13,9 @@ layout: default
                     <!--<hr class="small">-->
                     <!-- <span class="subheading">{{ page.description }}</span> -->
                 </div>
+                <div class="site-headimg">
+                    <img src="url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+                </div>
             </div>
         </div>
     </div>
